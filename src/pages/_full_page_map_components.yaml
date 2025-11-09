@@ -10,11 +10,11 @@
     circle-color:
       - match
       - ["get", "country"]
-      - "Uzbekistan"
+      - Uzbekistan
       - "#e74c3c"
-      - "Kazakhstan"
+      - Kazakhstan
       - "#3498db"
-      - "Ukraine"
+      - Ukraine
       - "#f39c12"
       - "#95a5a6"
     circle-stroke-width: 2
