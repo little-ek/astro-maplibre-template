@@ -11,12 +11,12 @@
       - match
       - ["get", "country"]
       - "Uzbekistan"
-      - "#e74c3c"  # Red
-      - "Kazakhstan"  
-      - "#3498db"  # Blue
+      - "#e74c3c"
+      - "Kazakhstan"
+      - "#3498db"
       - "Ukraine"
-      - "#f39c12"  # Orange
-      - "#95a5a6"  # Default gray
+      - "#f39c12"
+      - "#95a5a6"
     circle-stroke-width: 2
     circle-stroke-color: "#ffffff"
     circle-opacity: 0.8
